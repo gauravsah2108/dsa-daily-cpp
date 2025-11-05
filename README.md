@@ -13,4 +13,3 @@ It includes detailed solutions, code optimizations, and analysis of 550+ problem
 
 ---
 
-## 📘 Structure
